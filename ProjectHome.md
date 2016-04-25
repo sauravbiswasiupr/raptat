@@ -1,0 +1,3 @@
+Initial code release date - October 31, 2012.
+
+The project will develop a rapid text annotation tool (RapTAT) that uses machine learning to automate the annotation process.  The system can learn to identify phrases of interest and map them to particular concepts once trained based on examples.  The examples can be supplied as either CSV files or XML files exported from Knowtator, an open source annotation program.
